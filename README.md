@@ -1,2 +1,1 @@
-# roja_python
-hi i am newly writing
+# roja_python hi i am newly writing
